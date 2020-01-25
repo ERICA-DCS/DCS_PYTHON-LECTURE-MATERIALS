@@ -4,7 +4,7 @@ DCS_PYTHON-LECTURE-MATERIALS
 ### 소프트웨어학부 신입생
 * Window 10
 * OS X
-## 커리큘럼 (예정)
+## 커리큘럼
 <ol>
   <li>Python 언어와 인터프린터 방식의 이해</li>
   <li>Python 문자열과 출력</li>
